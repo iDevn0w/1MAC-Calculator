@@ -20,6 +20,9 @@ try:
 	   elif opr == "-":
 	      return print(f'Result = {x - y}')
 
+           elif opr == "*":
+		return print(f'Result = {x * y}')
+
 	   elif opr == "/":
 	      return print(f'Result = {x / y}')
 
